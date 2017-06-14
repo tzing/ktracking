@@ -3,7 +3,7 @@
 實作 *Comaniciu, D., Ramesh, V., & Meer, P. (2003). Kernel-based object tracking. IEEE Transactions on pattern analysis and machine intelligence, 25(5), 564-577.*
 
 - [執行範例](https://nbviewer.jupyter.org/github/tzing/ktracking/blob/master/run.ipynb)
-- [程式說明](https://nbviewer.jupyter.org/github/tzing/ktracking/blob/master/report.ipynb)
+- [程式說明](https://nbviewer.jupyter.org/github/tzing/ktracking/blob/master/detail.ipynb)
 
 ## 執行
 
